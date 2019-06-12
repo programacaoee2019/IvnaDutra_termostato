@@ -18,7 +18,8 @@ O Labview é um ambiente de programação gráfica que desenvolve software mais 
 
 # Esboço da interface gráfica
 
- ![Labview4](https://user-images.githubusercontent.com/48916663/59389898-043f5f80-8d46-11e9-9b7a-7e90e7eb2b54.PNG)
+![Labview 5](https://user-images.githubusercontent.com/48916663/59390002-65ffc980-8d46-11e9-8a21-1768ff5002e1.PNG)
+
 
  
 Comentários
