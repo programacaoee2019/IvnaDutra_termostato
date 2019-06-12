@@ -21,3 +21,9 @@ O Labview é um ambiente de programação gráfica que desenvolve software mais 
  ![Labview 3](https://user-images.githubusercontent.com/48916663/59387461-998b2580-8d3f-11e9-92eb-15b87a63bd3b.PNG)
  
 Comentários
+
+1. O termômetro mede a temperatura do ambiente.
+2. No "SET TEMP" o usuário irá colocar a temperatura desejada para o ambiente.
+3. O botão ON é para ligar o termostato.
+4. O botão STOP é para desligar o termostato, caso haja algum erro.
+5. O LED do ar condicionado indica se o mesmo está ligado ou desligado.
