@@ -27,5 +27,5 @@ Comentários
 1. O termômetro mede a temperatura do ambiente.
 2. No "SET TEMP" o usuário irá colocar a temperatura desejada para o ambiente.
 3. O botão ON/OFF é para ligar/desligar o termostato.
-4. O botão STOP é para desligar o termostato, caso haja algum erro.
+4. O botão STOP é para parar, caso haja algum erro na leitura da temperatura.
 5. Os LEDs indicam se o sistema está resfriando ou esquentando.
