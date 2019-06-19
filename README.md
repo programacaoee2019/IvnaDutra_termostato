@@ -30,3 +30,7 @@ Comentários
 4. O botão STOP é para parar, caso haja algum erro na leitura da temperatura.
 5. O LED vermelho indica se houve erro na leitura da temperatura.
 6. Os LEDs verdes indicam se o sistema está resfriando ou esquentando.
+
+# Esboço do código
+
+![Esboço_codigo](https://user-images.githubusercontent.com/48916663/59769312-41db4580-927c-11e9-8d53-a46221c9b056.PNG)
