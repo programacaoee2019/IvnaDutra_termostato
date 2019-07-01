@@ -19,8 +19,6 @@ O Labview é um ambiente de programação gráfica que desenvolve software mais 
 # Esboço da interface gráfica
 ![Labview 6](https://user-images.githubusercontent.com/48916663/59390425-909e5200-8d47-11e9-89bb-5034148eee89.PNG)
 
-
-
  
 Comentários
 
@@ -34,3 +32,13 @@ Comentários
 # Esboço do código
 
 ![Esboço_codigo](https://user-images.githubusercontent.com/48916663/59769312-41db4580-927c-11e9-8d53-a46221c9b056.PNG)
+
+# Fluxograma
+
+![Fluxograma VF](https://user-images.githubusercontent.com/48916663/60437612-1e51bc80-9be5-11e9-834a-558c54031f27.png)
+
+# Circuito conectado ao MyRio
+
+![Circuito](https://user-images.githubusercontent.com/48916663/60438084-3f66dd00-9be6-11e9-8eb8-5518f93009cc.PNG)
+
+Foto retirada do MyRio Essencials Guide
