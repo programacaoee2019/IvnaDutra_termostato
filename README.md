@@ -29,7 +29,7 @@ Comentários
 5. O LED vermelho indica se houve erro na leitura da temperatura.
 6. Os LEDs verdes indicam se o sistema está resfriando ou esquentando.
 
-# Esboço do código
+# Código
 
 ![Esboço_codigo](https://user-images.githubusercontent.com/48916663/59769312-41db4580-927c-11e9-8d53-a46221c9b056.PNG)
 
