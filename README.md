@@ -16,8 +16,9 @@ Apresenta-se como um sistema barato e eficiente de automação residencial. Tem 
 
 O Labview é um ambiente de programação gráfica que desenvolve software mais voltado para engenharia, como medições, testes, sistemas de controle, sistemas de monitoramento etc. Pode se comunicar com inúmeros Hadwares, é escalável através de targets e SO’s diferentes, além de fornecer bibliotecas de análise integradas. Por esses motivos, ele foi escolhido para desenvolver um termostato, que necessita de uma interface gráfica prática, da captura da temperatura do ambiente e de funções de análise da mesma.
 
-# Esboço da interface gráfica
-![Labview 6](https://user-images.githubusercontent.com/48916663/59390425-909e5200-8d47-11e9-89bb-5034148eee89.PNG)
+# Interface gráfica
+![Enviar](https://user-images.githubusercontent.com/48916663/60512943-54a63f00-9cac-11e9-9552-c1e8729912d3.PNG)
+
 
  
 Comentários
@@ -27,7 +28,7 @@ Comentários
 3. O botão ON/OFF é para ligar/desligar o termostato.
 4. O botão STOP é para parar, caso haja algum erro na leitura da temperatura.
 5. O LED vermelho indica se houve erro na leitura da temperatura.
-6. Os LEDs verdes indicam se o sistema está resfriando ou esquentando.
+6. O LED verde do ar condicionado indica de este está ligado ou não.
 
 # Código
 
