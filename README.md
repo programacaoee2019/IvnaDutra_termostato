@@ -6,7 +6,7 @@ Sistema de controle destinado a manter constante a temperatura de determinado si
 
 **Função**  
 
-Permite o usuário inserir uma temperatura desejada para o seu ambiente, sendo que quando a temperatura deste ambiente ultrapassada a desejada, o termostato fecha um relé e ativa um motor DC, que serve como o ar condicionado, resfriando o ambiente. Caso contrário, o relé abre e desliga o motor DC.  
+Permite o usuário inserir uma temperatura desejada para o seu ambiente, sendo que quando a temperatura deste ambiente ultrapassada a desejada, o termostato fecha um relé e ativa um motor DC, que serve como o ar condicionado, resfriando o ambiente. Caso contrário, o relé abre e desliga o motor DC. O termostato funciona apenas com ar condiocionado, ou seja, quando a temperatura setada é menor que a temperatura ambiente. 
 
 **Motivação**  
 
@@ -24,7 +24,7 @@ O Labview é um ambiente de programação gráfica que desenvolve software mais 
 Comentários
 
 1. O termômetro mede a temperatura do ambiente.
-2. No "SET TEMP" o usuário irá colocar a temperatura desejada para o ambiente.
+2. No "SET TEMP" o usuário irá colocar a temperatura desejada para o ambiente(menor do que a temperatura ambiente, cerca de 25 graus).
 3. O botão ON/OFF é para ligar/desligar o termostato.
 4. O botão STOP é para parar, caso haja algum erro na leitura da temperatura.
 5. O LED vermelho indica se houve erro na leitura da temperatura.
@@ -36,7 +36,7 @@ Comentários
 
 # Fluxograma
 
-![Fluxograma VF](https://user-images.githubusercontent.com/48916663/60437612-1e51bc80-9be5-11e9-834a-558c54031f27.png)
+![Fluxograma VF (1)](https://user-images.githubusercontent.com/48916663/60514684-5c67e280-9cb0-11e9-8d2b-b286a85e2359.png)
 
 # Circuito conectado ao MyRio
 
