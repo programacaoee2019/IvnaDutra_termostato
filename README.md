@@ -42,7 +42,7 @@ Comentários
 
 ![Circuito](https://user-images.githubusercontent.com/48916663/60438084-3f66dd00-9be6-11e9-8eb8-5518f93009cc.PNG)
 
-Foto retirada do MyRio Essencials Guide
+Foto retirada do MyRio Essencials Guide.
 
 # Projeto
 
