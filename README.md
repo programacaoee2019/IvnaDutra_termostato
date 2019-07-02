@@ -48,6 +48,12 @@ Foto retirada do MyRio Essencials Guide
 
 O programa recebe os dados do MyRio de diferença de tensão no ciricuito mostrado acima para calcular a resistência do termistor. A partir disso ele calcula a temperatura ambiente, ligando ou desligando o ar condicionado dependendo da temperatura desejada colocada pelo usuário na interface gráfica. 
 
+# Compilação
+
+Para o programa ser compilado, é necessário os seguintes programas: LabVIEW 2019 myRIO Toolkit, LabVIEW 2019 Real-Time Module. Também é necessário estar conectado ao MyRio e este ao circuito citado acima.
+
 # Diagrama de classes
 
 ![Diagrama_de_classes](https://user-images.githubusercontent.com/48916663/60512476-0b092480-9cab-11e9-809d-e284ee5899c5.PNG)
+
+
