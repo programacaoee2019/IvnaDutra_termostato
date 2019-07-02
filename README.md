@@ -46,3 +46,7 @@ Foto retirada do MyRio Essencials Guide
 # Projeto
 
 O programa recebe os dados do MyRio de diferença de tensão no ciricuito mostrado acima para calcular a resistência do termistor. A partir disso ele calcula a temperatura ambiente, ligando ou desligando o ar condicionado dependendo da temperatura desejada colocada pelo usuário na interface gráfica. 
+
+# Diagrama de classes
+
+![Diagrama_de_classes](https://user-images.githubusercontent.com/48916663/60512476-0b092480-9cab-11e9-809d-e284ee5899c5.PNG)
